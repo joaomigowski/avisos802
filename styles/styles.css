@@ -1,0 +1,28 @@
+body {
+    font-family: monospace;
+    font-size: 30px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+a {
+    color: #00e;
+}
+
+.message {
+    border: dashed #000 3px;
+    padding: 10px;
+    background-color: #aaa;
+    text-align: justify;
+}
+
+img {
+    border: solid #000 4px;
+}
+
+#text1 {
+    font-size: 30px;
+    margin: 0;
+}
