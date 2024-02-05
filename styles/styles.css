@@ -13,7 +13,6 @@ a {
 
 .message {
     border: dashed #000 3px;
-    padding: 10px;
     background-color: #aaa;
     text-align: justify;
 }
