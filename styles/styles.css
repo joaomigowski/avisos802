@@ -26,3 +26,15 @@ img {
     font-size: 30px;
     margin: 0px;
 }
+
+span {
+    margin: 10px;
+    padding: 8px;
+    text-align: center;
+    background-color: #000;
+    border: dotted #fff 3px;
+}
+
+span a{
+    color: #77e;
+}
