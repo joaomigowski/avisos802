@@ -32,6 +32,7 @@ span {
     padding: 8px;
     text-align: center;
     background-color: #000;
+    color: #fff;
     border: dotted #fff 3px;
 }
 
