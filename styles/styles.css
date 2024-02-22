@@ -36,6 +36,11 @@ img {
     color: #77e;
 }
 
+#div-avisos h2 {
+    margin: 0;
+    color: #fff;
+}
+
 #div-avisos {
     margin: 10px;
     padding: 8px;
