@@ -27,9 +27,13 @@ img {
     margin: 0px;
 }
 
+#text2 {
+    background-color: #fff;
+    border: #000 8px dashed;
+}
+
 #container {
-    display: flex;
-    flex-direction: row;
+    display: flex; 
 }
 
 #div-avisos a {
