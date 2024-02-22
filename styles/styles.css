@@ -29,7 +29,8 @@ img {
 
 #text2 {
     background-color: #fff;
-    border: #000 8px dashed;
+    border: #000 5px dashed;
+    margin: 5px;
 }
 
 #container {
